@@ -6,4 +6,4 @@
 
 + [Week 3](https://drjietao.github.io/BA505-Slides/Lecture03-PY4E-Chapter4.slides.html)
 
-+ [Week 4](https://drjietao.github.io/BA505-Slides/Lecture03-PY4E-Chapter5.slides.html)
++ [Week 4](https://drjietao.github.io/BA505-Slides/Lecture04-PY4E-Chapter5.slides.html)
