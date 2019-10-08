@@ -9,3 +9,6 @@
 + [Week 4](https://drjietao.github.io/BA505-Slides/Lecture04-PY4E-Chapter5.slides.html)
 
 + [Week 5](https://drjietao.github.io/BA505-Slides/Lecture05-Strings%26Lists.slides.html)
+
++ [Week 6](https://drjietao.github.io/BA505-Slides/Lecture06-Dicts%26RegEx.slides.html)
+
