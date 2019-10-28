@@ -12,6 +12,6 @@
 
 + [Week 6](https://drjietao.github.io/BA505-Slides/Lecture06-Dicts%26RegEx.slides.html)
 
-+ [Week 7](https://drjietao.github.io/BA505-Slides/ecture07-Getting-started-with-Pandas.slides.html)
++ [Week 7](https://drjietao.github.io/BA505-Slides/Lecture07-Getting-started-with-Pandas.slides.html)
 
-+ [Week 8](https://drjietao.github.io/BA505-Slides/Lecture08-Pandas_data_structure_and_ploting.html)
++ [Week 8](https://drjietao.github.io/BA505-Slides/Lecture08-Pandas_data_structure_and_ploting.slides.html)
